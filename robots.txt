@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jualbukuosn.pages.dev/sitemap.xml
